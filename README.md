@@ -86,14 +86,24 @@ This repository showcases a recursive, multi-layered prompt architecture designe
 ## Reflections & Iterations
 
 **Learnings**:
-- Modular prompts enable symbolic precision  
+- Modular prompts enable systemic precision  
 - Instruction tuning improves consistency  
 - Visual prompting bridges emotion and concept  
 
 **Next Steps**:
-- Integrate archetypal tagging  
-- Add few-shot examples for tone calibration  
 - Expand to multi-format outputs (audio, ritual scripts)
+
+
+---
+
+## Author
+
+**Bogdan** — Visionary synthesizer, poetic compression, and functional methods design.  
+Crafting semantic structures that guide transformation through clarity, resonance, and intention.
+
+---
+
+
 
 ---
 
