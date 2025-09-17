@@ -1,0 +1,7 @@
+Generate brisk essay summary in an eclectic manner.  
+20 words limit.  
+Avoid calls to actions.  
+Integrate the exact phrase SEO_Key_Word and avoid it in the beginning or end of the suggested text.
+
+Reformulate in 8 words: “Brisk_Summary”  
+Exclude words or stems from "Article_Title"
