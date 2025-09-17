@@ -1,3 +1,6 @@
+![Essay Optimization Glyph](Essay_Optimization_Glyph.png)
+
+
 # 🧿 Modular Prompt Suite for Semantic Essay Generation
 
 ## Overview
