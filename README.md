@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a multi-layered prompt structure designed to optimize essays with crisp precision and audience resonance. It integrates techniques from prompt engineering, SEO optimization, and visual storytelling—bridging wisdom with modern technology.
+This repository showcases a multi-layered prompt structure designed to optimize essays with crisp precision and audience resonance. It integrates techniques from prompt engineering, SEO optimization, and visual correspondance — bridging wisdom with modern technology.
 
 ---
 
