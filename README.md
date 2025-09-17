@@ -99,16 +99,28 @@ This repository showcases a multi-layered prompt structure designed to optimize 
 
 ---
 
+## Repository Structure
+```
+essay-optimization-modular-prompt-suite/ 
+├── README.md 
+├── prompts/ 
+│ ├── semantic_metadata.txt 
+│ ├── structural_composition.txt 
+│ ├── narrative_architecture.txt 
+│ ├── visual_resonance.txt 
+│ └── social_compression.txt 
+├── outputs/ 
+│ ├── sample_tags.json 
+│ ├── sample_summary.txt 
+│ ├── sample_headings.md 
+│ └── sample_image_prompt.txt 
+└── reflections/ 
+└── iteration_notes.md
+```
+
+---
+
 ## Author
 
 **Bogdan** — Visionary synthesizer, poetic compression, and functional methods design.  
 Crafting semantic structures that guide transformation through clarity, resonance, and intention.
-
----
-
-
-
----
-
-## Repository Structure
-
