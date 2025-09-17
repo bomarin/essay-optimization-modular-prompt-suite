@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a recursive, multi-layered prompt architecture designed to generate essays with semantic precision, audience resonance, and symbolic depth. It integrates techniques from prompt engineering, SEO optimization, and visual storytelling—bridging ancestral wisdom with modern spiritual technology.
+This repository showcases a recursive, multi-layered prompt architecture designed to generate essays with semantic precision and audience resonance. It integrates techniques from prompt engineering, SEO optimization, and visual storytelling—bridging wisdom with modern technology.
 
 ---
 
