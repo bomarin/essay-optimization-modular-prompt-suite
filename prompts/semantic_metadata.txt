@@ -1,0 +1,3 @@
+Suggest relevant content-driven tags for proposed essay.  
+Combine results in two-word expressions.  
+Let SEO_Key_Word equal to most befitting two-word expression for essay, from all suggested options.
